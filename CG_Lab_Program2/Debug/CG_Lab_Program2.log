@@ -1,0 +1,9 @@
+﻿  Prog2.cpp
+C:\Users\siddh\source\repos\CG_Lab_Program2\Prog2.cpp(32,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\siddh\source\repos\CG_Lab_Program2\Prog2.cpp(37,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\siddh\source\repos\CG_Lab_Program2\Prog2.cpp(38,9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\siddh\source\repos\CG_Lab_Program2\Prog2.cpp(39,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\siddh\source\repos\CG_Lab_Program2\Prog2.cpp(40,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\siddh\source\repos\CG_Lab_Program2\Prog2.cpp(40,14): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\siddh\source\repos\CG_Lab_Program2\Prog2.cpp(67,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CG_Lab_Program2.vcxproj -> C:\Users\siddh\source\repos\CG_Lab_Program2\Debug\CG_Lab_Program2.exe
