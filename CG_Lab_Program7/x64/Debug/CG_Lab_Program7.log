@@ -1,0 +1,3 @@
+﻿  prog7.cpp
+D:\CG_Lab_Programs\CG_Lab_Program7\prog7.cpp(63,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CG_Lab_Program7.vcxproj -> D:\CG_Lab_Programs\CG_Lab_Program7\x64\Debug\CG_Lab_Program7.exe
