@@ -1,19 +1,19 @@
 ﻿  Prog5.cpp
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(81,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(81,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(82,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(82,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(83,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(83,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(84,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(84,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(104,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(104,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(105,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(105,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(106,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(106,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(107,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(107,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
-D:\Graphics\CG_Lab_Program5\Prog5.cpp(121,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  CG_Lab_Program5.vcxproj -> D:\Graphics\CG_Lab_Program5\x64\Debug\CG_Lab_Program5.exe
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(81,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(81,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(82,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(82,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(83,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(83,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(84,21): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(84,14): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(104,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(104,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(105,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(105,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(106,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(106,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(107,19): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(107,13): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program5\Prog5.cpp(121,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CG_Lab_Program5.vcxproj -> D:\CG_Lab_Programs\CG_Lab_Program5\x64\Debug\CG_Lab_Program5.exe

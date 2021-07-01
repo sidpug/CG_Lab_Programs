@@ -123,7 +123,7 @@ void main(int argc, char** argv)
 	glutInitDisplayMode(GLUT_SINGLE | GLUT_RGB);
 	glutInitWindowSize(500, 500);
 	glutInitWindowPosition(0, 0);
-	glutCreateWindow("Cohen Suderland Line Clipping Algorithm");
+	glutCreateWindow("Cohen Suderland Line Clipping Algorithm USN:1AH18CS092");
 	myinit();
 	glutDisplayFunc(display);
 	glutMainLoop();

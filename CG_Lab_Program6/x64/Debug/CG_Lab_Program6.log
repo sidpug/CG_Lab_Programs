@@ -1,0 +1,14 @@
+﻿  program6.cpp
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(13,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(21,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(29,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(39,47): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(50,25): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(50,44): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(50,61): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(57,37): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(58,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(59,39): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(60,38): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+D:\CG_Lab_Programs\CG_Lab_Program6\program6.cpp(77,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CG_Lab_Program6.vcxproj -> D:\CG_Lab_Programs\CG_Lab_Program6\x64\Debug\CG_Lab_Program6.exe

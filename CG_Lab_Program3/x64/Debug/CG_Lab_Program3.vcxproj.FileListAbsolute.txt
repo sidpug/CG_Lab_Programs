@@ -1,1 +1,2 @@
 D:\Graphics\CG_Lab_Program3\x64\Debug\CG_Lab_Program3.exe
+D:\CG_Lab_Programs\CG_Lab_Program3\x64\Debug\CG_Lab_Program3.exe
