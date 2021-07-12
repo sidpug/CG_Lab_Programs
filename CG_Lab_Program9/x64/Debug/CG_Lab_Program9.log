@@ -1,0 +1,5 @@
+﻿  Prog9.cpp
+D:\CG_Lab_Programs\CG_Lab_Program9\Prog9.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\CG_Lab_Programs\CG_Lab_Program9\Prog9.cpp(21,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\CG_Lab_Programs\CG_Lab_Program9\Prog9.cpp(89,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CG_Lab_Program9.vcxproj -> D:\CG_Lab_Programs\CG_Lab_Program9\x64\Debug\CG_Lab_Program9.exe
