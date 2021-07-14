@@ -1,17 +1,2 @@
-﻿  prog8.cpp
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(9,2): warning C4091: 'typedef ': ignored on left of 'point' when no variable is declared
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(29,27): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(57,46): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(58,46): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(59,53): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(60,53): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(61,46): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(62,48): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(63,14): warning C4305: '+=': truncation from 'double' to 'float'
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(69,23): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(72,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(78,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(84,26): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(88,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
-D:\CG_Lab_Programs\CG_Lab_Program8\prog8.cpp(104,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+﻿  LINK : D:\CG_Lab_Programs\CG_Lab_Program8\x64\Debug\CG_Lab_Program8.exe not found or not built by the last incremental link; performing full link
   CG_Lab_Program8.vcxproj -> D:\CG_Lab_Programs\CG_Lab_Program8\x64\Debug\CG_Lab_Program8.exe
